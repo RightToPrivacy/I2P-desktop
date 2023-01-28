@@ -1,0 +1,23 @@
+#!/bin/bash
+#
+# righttoprivacy[at]tutanota.com
+# https://buymeacoffee.com/politictech/posts (public blog)
+#
+
+# VARIABLES
+i2prouterloc="/home/user/i2p/i2prouter"
+i2pprofile="I2P Browsing" 	# Change to I2P profile name
+stopi2p="$i2prouterloc stop"
+
+starti2p() {
+echo -e "STARTING I2P ROUTER...\n"
+bash $i2prouterloc start  
+}
+
+starti2p &
+
+trap $stopi2p EXIT
+
+librewolf -P "$i2pprofile" --new-tab https://127.0.0.1:7667
+
+
