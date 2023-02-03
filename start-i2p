@@ -16,6 +16,7 @@ starti2p() {
 }
 
 starti2p &
+sleep 2
 
 firejail librewolf -P "$i2pprofile" --new-tab https://127.0.0.1:7667
 
