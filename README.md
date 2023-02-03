@@ -8,7 +8,7 @@ STEP 2: chmod +x /usr/bin/start-i2p
 
 STEP 3: ensure i2prouterloc variable inside /usr/bin/start-i2p is set to correct i2prouter location (default: /home/user/i2p/i2prouter
 
-STEP 4: install I2P profile
+STEP 4: install I2P profile and ensure it is named "I2P Browsing" to meet variables in start-i2p
 
 STEP 5: Make shortcut on desktop, setting execution location to /usr/bin/start-i2p
 
@@ -18,7 +18,7 @@ This is part of coming tutorial
 
 ---
 
-i2prouter will stop upon closing browser. 
+* **ADDED NOTE:** i2prouter automatically stops upon closing browser. 
 
 BLOG: https://buymeacoffee.com/politictech/posts (public)
 
