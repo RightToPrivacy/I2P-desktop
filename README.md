@@ -1,5 +1,9 @@
 This is work in progress. More info to be shared.
 
+### FIRST: INSTALL LIBREWOLF / FIREJAIL
+
+If you do not install firejail, delete the firejail from start-i2p line using it.
+
 ---
 
 STEP 1: move start-i2p to /usr/bin/start-i2p
