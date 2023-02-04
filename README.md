@@ -4,6 +4,17 @@ This is work in progress. More info to be shared.
 
 If you do not install firejail, delete the firejail from start-i2p line using it.
 
+INSTALLING PROFILE
+
+Create new "I2P Browsing" named Librewolf browser profile.
+
+Copy the contents of the profile folder in this repository into that profile folder.
+
+#### OR
+
+Otherwise you can follow this video to see how to create I2P profile: 
+https://www.buymeacoffee.com/politictech/anonymous-internet-clearnet-with-i2p-enhanced-i2p-router (public blog)
+
 ---
 
 STEP 1: move start-i2p to /usr/bin/start-i2p
