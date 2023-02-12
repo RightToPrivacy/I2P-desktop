@@ -31,11 +31,11 @@ STEP 1: move start-i2p to /usr/bin/start-i2p
 
 STEP 2: chmod +x /usr/bin/start-i2p
 
-STEP 3: ensure i2prouterloc variable inside /usr/bin/start-i2p is set to correct i2prouter location (default: /home/user/i2p/i2prouter
+STEP 3: ensure i2prouterloc variable inside /usr/bin/start-i2p is set to correct i2prouter location (default: /home/$USER/i2p/i2prouter)
 
 STEP 4: install I2P profile and ensure it is named "I2P Browsing" to meet variables in start-i2p
 
-STEP 5: Copy i2p.desktop to /home/$USER/.librewolf, setting execution location to /usr/bin/start-i2p
+STEP 5: Copy i2p.desktop to /home/$USER/.local/share/applications/i2p.desktop
 
 STEP 6: Save i2p.jpg to /home/$USER/Pictures/i2p.jpg and replace the icon line to match exact path
 
