@@ -12,6 +12,7 @@ Type=Application
 Name=I2P Browser
 GenericName=Browser
 Exec=/usr/bin/kgx --command /usr/bin/start-i2p
+# REPLACE THE 'alarm' below to match your username (alarm = Arch example)
 Icon=/home/alarm/Pictures/i2p.jpg
 Terminal=false
 Categories=Network

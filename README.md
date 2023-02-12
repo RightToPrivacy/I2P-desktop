@@ -40,7 +40,13 @@ STEP 4: install I2P profile and ensure it is named "I2P Browsing" to meet variab
 
 STEP 5: Copy i2p.desktop to /home/$USER/.librewolf, setting execution location to /usr/bin/start-i2p
 
-STEP 6: Save i2p.jpg to /home/$USER/Pictures/i2p.jpg 
+STEP 6: Save i2p.jpg to /home/$USER/Pictures/i2p.jpg and replace the icon line to match exact path
+
+For example Arch example uses: /home/alarm/Pictures/i2p.jpg for i2p.desktop icon location
+
+Mobian users will use /home/mobian/Pictures/i2p.jpg (and set this inside the i2p.desktop file)
+
+Simply replace the default /home/USERNAMEgoesHere for that line.
 
 ---
 
