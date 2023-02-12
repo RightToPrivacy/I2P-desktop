@@ -5,7 +5,7 @@
 #
 
 # VARIABLES
-i2prouterloc="/home/user/i2p/i2prouter"
+i2prouterloc="/home/$USER/i2p/i2prouter"
 i2pprofile="I2P Browsing" 	# Change to I2P profile name
 
 trap "$i2prouterloc stop" EXIT
@@ -16,7 +16,6 @@ starti2p() {
 }
 
 starti2p &
-sleep 5
+sleep 7		# delay for slower devices compatibility
 
 firejail librewolf -P "$i2pprofile" --new-tab https://127.0.0.1:7667
-

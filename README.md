@@ -1,10 +1,23 @@
 This is work in progress. More info to be shared.
 
+---
+
+Tutorial / video demo here: https://www.buymeacoffee.com/politictech/create-automated-i2p-browser-button-on-desktop
+
+---
+
 ### FIRST: INSTALL LIBREWOLF / FIREJAIL
 
-If you do not install firejail, delete the firejail from start-i2p line using it.
+If you do not install firejail, delete 'firejail' from start-i2p line using it.
 
-INSTALLING PROFILE
+*You should also have i2prouter installed to /home/$USER/i2p/i2prouter to
+meet variable settings*
+
+$USER represents your login and will be filled in by your system.
+
+---
+
+#### INSTALLING PROFILE
 
 Create new "I2P Browsing" named Librewolf browser profile.
 
@@ -25,11 +38,9 @@ STEP 3: ensure i2prouterloc variable inside /usr/bin/start-i2p is set to correct
 
 STEP 4: install I2P profile and ensure it is named "I2P Browsing" to meet variables in start-i2p
 
-STEP 5: Make shortcut on desktop, setting execution location to /usr/bin/start-i2p
+STEP 5: Copy i2p.desktop to /home/$USER/.librewolf, setting execution location to /usr/bin/start-i2p
 
-STEP 6: Set shortcut to use the i2p.jpg as icon (optional)
-
-This is part of coming tutorial
+STEP 6: Save i2p.jpg to /home/$USER/Pictures/i2p.jpg 
 
 ---
 
