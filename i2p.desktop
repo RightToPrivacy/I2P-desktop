@@ -1,8 +1,3 @@
-# THIS IS SET FOR LINUX PHONES WITH kgx PREINSTALLED
-# YOU CAN STILL USE THIS PROFILE WITHOUT kgx BY 
-# ERASING '/usr/bin/kgx --command' AND LEAVING
-# Exec=/usr/bin/start-i2p
-# 
 # Report problems to Gitea Onion: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
 #
 # BLOG: https://buymeacoffee.com/politictech/posts (public)
