@@ -16,6 +16,6 @@ starti2p() {
 }
 
 starti2p &
-sleep 7		# delay for slower devices compatibility
+sleep 8		# delay for slower devices compatibility
 
 firejail librewolf -P "$i2pprofile" --new-tab https://127.0.0.1:7667
