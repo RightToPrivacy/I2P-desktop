@@ -1,6 +1,4 @@
-This is work in progress. 
-
-Will be adding more info / files coming up to make this as easy as possible.
+This is a holding place for this. Main location where updates are found is at: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop (use Tor Browser to access)
 
 May automate more of this. For now, follow instructions below.
 
