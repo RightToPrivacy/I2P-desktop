@@ -15,7 +15,7 @@ When you close the browser, i2prouter automatically stops for you.
 
 ---
 
-Tutorial / video demo here: https://www.buymeacoffee.com/politictech/create-automated-i2p-browser-button-on-desktop
+#### TUTORIAL / DEMO: https://www.buymeacoffee.com/politictech/setup-automated-i2p-browser-librewolf-on-pinephone-linux-phones-devices
 
 Should work on any Linux device (including Linux Phones like Pinephone / Librem5)
 
@@ -41,6 +41,10 @@ NEXT: go to about:profiles and create new profile. Select the folder "o113n4wr.I
 ---
 
 ### INSTALL STEPS (After Installing Firejail (optional) And Librewolf / I2P)
+
+#### SUGGESTED: PUBLIC SCREENSHOT INSTALL GUIDE (all Linux devices): https://www.buymeacoffee.com/politictech/setup-automated-i2p-browser-librewolf-on-pinephone-linux-phones-devices
+
+(or follow steps below without pictures)
 
 STEP 1: move start-i2p to /usr/bin/start-i2p
 
@@ -70,7 +74,7 @@ BLOG: https://buymeacoffee.com/politictech/posts (public)
 
 email: righttoprivacy[at]tutanota.com
 
-XMR: 48qtspi5En44mJZLeiMoHYFEmuJfQYb5DLQxLDr7d1NXc53XaAvoT8PS3wBrhEc3VY1wxu5Rgw6oKBYgahpSAYnpHntbQNM
+XMR / Monero: 48qtspi5En44mJZLeiMoHYFEmuJfQYb5DLQxLDr7d1NXc53XaAvoT8PS3wBrhEc3VY1wxu5Rgw6oKBYgahpSAYnpHntbQNM
 
 ---
 
