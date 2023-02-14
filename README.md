@@ -19,6 +19,8 @@ When you close the browser, i2prouter automatically stops for you.
 
 Should work on any Linux device (including Linux Phones like Pinephone / Librem5)
 
+*You can change the i2prouter location to adapt to i2pd if you use the leaner C++ version instead*
+
 ---
 
 ### FIRST: INSTALL LIBREWOLF / FIREJAIL
