@@ -5,8 +5,10 @@
 #
 
 # VARIABLES
-i2prouterstart="/home/$USER/i2p/i2prouter start"
-i2pprofile="I2P Browsing" 	# Change to I2P profile name
+# $i2prouterstart should be command for starting i2p (whichever fork / version)
+# $i2prouterstop should be command for stopping i2p (whichever version you use)
+i2prouterstart="/home/$USER/i2p/i2prouter start"		# CHANGE THIS IF NEEDED TO MEET ANY I2PROUTER START COMMAND
+i2pprofile="I2P Browsing" 	# Change to I2P profile name	# CHANGE IF NEEDED TO MEET STOP I2PROUTER COMMAND
 i2prouterstop="/home/$USER/i2p/i2prouter stop"
 
 trap "$i2prouterstop" EXIT

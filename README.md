@@ -19,7 +19,8 @@ When you close the browser, i2prouter automatically stops for you.
 
 Should work on any Linux device (including Linux Phones like Pinephone / Librem5)
 
-*You can change the i2prouter location to adapt to i2pd if you use the leaner C++ version instead*
+*Inside start-i2p, edit the $i2prouterstart / $i2prouterstop if using another version of i2p, or have installed
+in another location than /home/$USER/i2p/i2prouter*
 
 ---
 
@@ -27,8 +28,8 @@ Should work on any Linux device (including Linux Phones like Pinephone / Librem5
 
 If you do not install firejail, delete 'firejail' from start-i2p line using it.
 
-*You should also have i2prouter installed to /home/$USER/i2p/i2prouter to
-meet variable settings without changing*
+*default is set to i2prouter commands installed to /home/$USER/i2p/i2prouter, if you use another
+version of i2p, you can change the i2prouterstart / i2prouterstop variables to meet those commands*
 
 $USER represents your login and will be filled in by your system based on user running this.
 
