@@ -28,8 +28,8 @@ in another location than /home/$USER/i2p/i2prouter*
 
 If you do not install firejail, delete 'firejail' from start-i2p line using it.
 
-*default is set to i2prouter commands installed to /home/$USER/i2p/i2prouter, if you use another
-version of i2p, you can change the i2prouterstart / i2prouterstop variables to meet those commands*
+*default $i2prouterstart / $i2prouterstop is set to i2prouter commands installed at /home/$USER/i2p/i2prouter; if you use another
+version of i2p, change the i2prouterstart / i2prouterstop variable values to meet those commands*
 
 $USER represents your login and will be filled in by your system based on user running this.
 
@@ -53,8 +53,7 @@ STEP 1: move start-i2p to /usr/bin/start-i2p
 
 STEP 2: chmod +x /usr/bin/start-i2p
 
-STEP 3: ensure i2prouterloc variable (inside /usr/bin/start-i2p) is set to correct i2prouter location (default: /home/$USER/i2p/i2prouter)
-(if not, correct the i2prouter executable location in /usr/bin/start-i2p)
+STEP 3: ensure i2prouterstart / i2prouterstop variables (inside /usr/bin/start-i2p) are set to correct i2prouter start / stop commands; (default: /home/$USER/i2p/i2prouter)
 
 STEP 4: INSTALL I2P Browsing Profile by copying entire folder: "o113n4wr.I2P Browsing" to /home/$USER/.librewolf (folder + contents)
 
@@ -78,6 +77,8 @@ BLOG: https://buymeacoffee.com/politictech/posts (public)
 email: righttoprivacy[at]tutanota.com
 
 XMR / Monero: 48qtspi5En44mJZLeiMoHYFEmuJfQYb5DLQxLDr7d1NXc53XaAvoT8PS3wBrhEc3VY1wxu5Rgw6oKBYgahpSAYnpHntbQNM
+
+CashApp: https://cash.app/$HumanRightsTech
 
 ---
 
