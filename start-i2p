@@ -5,14 +5,15 @@
 #
 
 # VARIABLES
-i2prouterloc="/home/$USER/i2p/i2prouter"
+# If you use i2pd, change the $i2prouterstart value to i2pd starting command
+i2prouterstart="/home/$USER/i2p/i2prouter start"	# change to i2pd if you use purplei2p
 i2pprofile="I2P Browsing" 	# Change to I2P profile name
 
 trap "$i2prouterloc stop" EXIT
 
 starti2p() {
 	echo -e "STARTING I2P ROUTER...\n"
-	bash $i2prouterloc start  
+	bash $i2prouterstart
 }
 
 starti2p &
