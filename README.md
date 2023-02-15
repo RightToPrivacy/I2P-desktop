@@ -41,6 +41,12 @@ Copy "o113n4wr.I2P Browsing"  pre-setup Librewolf profile to /home/$USER/.librew
 
 NEXT: go to about:profiles and create new profile. Select the folder "o113n4wr.I2P Browsing" as location and name profile "I2P Browsing".
 
+**INFO: javascript now disabled by default in profile provided** 
+
+You can re-enable Javascript in about:config by setting: javascript.enabled = true
+
+*Other small changes include fake referrer source (spoof), disable geo.*
+
 ---
 
 ### INSTALL STEPS (After Installing Firejail (optional) And Librewolf / I2P)
