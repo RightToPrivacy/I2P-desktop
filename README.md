@@ -45,7 +45,7 @@ NEXT: go to about:profiles and create new profile. Select the folder "o113n4wr.I
 
 You can re-enable Javascript in about:config by setting: javascript.enabled = true
 
-*Other small changes include fake referrer source (spoof), disable geo.*
+*Other small changes, and still in progress on profile*
 
 ---
 
