@@ -82,10 +82,6 @@ BLOG: https://buymeacoffee.com/politictech/posts (public)
 
 email: righttoprivacy[at]tutanota.com
 
-XMR / Monero: 48qtspi5En44mJZLeiMoHYFEmuJfQYb5DLQxLDr7d1NXc53XaAvoT8PS3wBrhEc3VY1wxu5Rgw6oKBYgahpSAYnpHntbQNM
-
-CashApp: https://cash.app/$HumanRightsTech
-
 ---
 
 #### GET I2PROUTER LINKS
