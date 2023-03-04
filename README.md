@@ -35,6 +35,16 @@ $USER represents your login and will be filled in by your system based on user r
 
 ---
 
+## NEW INSTALL.SH AUTOMATED INSTALLER
+
+THIS INSTALLER SCRIPT IS A WORK IN PROGRESS. HAVE A FEW MORE THINGS TO CLEAN UP BUT YOU ARE WELCOME TO TRY OUT.
+
+IF YOU NOTICE AN ISSUE PLEASE FILE OR EMAIL righttoprivacy[at]tutanota.com
+
+**If install.sh does not produce the working shortcut for your unique setup, follow steps below.**
+
+*continuing to work on this.*
+
 #### INSTALLING PROFILE (Step #4 Below)
 
 Copy "o113n4wr.I2P Browsing"  pre-setup Librewolf profile to /home/$USER/.librewolf (folder + contents)
