@@ -1,7 +1,6 @@
-# Report problems to Gitea Onion: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
-#
-# BLOG: https://buymeacoffee.com/politictech/posts (public)
-
+# Report issues to Gitea Onion: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
+# Or email: righttoprivacy[at]tutanota.com
+# more info in README.md
 [Desktop Entry]
 Type=Application
 Name=I2P Browser
@@ -9,8 +8,8 @@ GenericName=Browser
 # HASHED OUT LINE BELOW IS FOR OPENING TERMINAL ON LINUX PHONE FOR RUN OBSERVATION
 #Exec=/usr/bin/kgx --command /usr/bin/start-i2p
 Exec=/bin/bash /usr/bin/start-i2p
-# REPLACE THE 'alarm' below to match your username (alarm = Arch example)
-Icon=/home/alarm/Pictures/i2p.jpg
+# BELOW ICON LOCATION IS FILLED OUT BY INSTALLER (install.sh)
+Icon=
 Terminal=false
 Categories=Network
 

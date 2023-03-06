@@ -1,10 +1,12 @@
 #!/bin/bash
 #
 # righttoprivacy[at]tutanota.com
-# https://buymeacoffee.com/politictech/posts (public blog)
+# 
+# more info in README
+# and on public blog: https://buymeacoffee.com/politictech/posts
 #
 
-# VARIABLES
+# VARIABLES: EDIT VARIABLES BELOW IF I2PROUTER LOCATION IS DIFFERENT
 # $i2prouterstart should be command for starting i2p (whichever fork / version)
 # $i2prouterstop should be command for stopping i2p (whichever version you use)
 i2prouterstart="/home/$USER/i2p/i2prouter start"		# CHANGE THIS IF NEEDED TO MEET ANY I2PROUTER START COMMAND

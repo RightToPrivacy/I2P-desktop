@@ -1,17 +1,22 @@
-This is work in progress. 
+CONTINUING WORK ON THIS - READY TO TRY!
 
-Will be adding more info / files coming up to make this as easy as possible.
+RUN: bash install.sh
 
-May automate more of this. For now, follow instructions below.
+REPORT ISSUES TO GITEA ONION: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
+
+EMAIL: righttoprivacy[at]tutanota.com 
 
 ---
 
 ## WHAT DOES IT DO?
 
-Once following the INSTALL STEPS you will have a desktop or Linux phone interface I2P button / shortcut
-that starts i2p for you in background, then opens I2P Browsing profile in Librewolf.
+Running install.sh creates the I2P custom profile, moves files where they belong, and leaves you with
+a button on Linux phones / Desktop shortcut for Linux comptuers.
 
-When you close the browser, i2prouter automatically stops for you. 
+Should work on all Linux devices. Report if not.
+
+When you tap the I2P browser button on desktop / Linux phone, i2prouter starts for you (in background), browser
+opens to i2prouter homepage, and i2prouter is stopped upon closing the browser.
 
 ---
 
@@ -37,15 +42,23 @@ $USER represents your login and will be filled in by your system based on user r
 
 ## NEW INSTALL.SH AUTOMATED INSTALLER
 
-THIS INSTALLER SCRIPT IS A WORK IN PROGRESS. HAVE A FEW MORE THINGS TO CLEAN UP BUT YOU ARE WELCOME TO TRY OUT.
+AUTOMATED INSTALLER (install.sh) READY TO TRY!
 
 IF YOU NOTICE AN ISSUE PLEASE FILE OR EMAIL righttoprivacy[at]tutanota.com
+
+**INSTALLER USAGE**
+
+    bash install.sh
+
+The above will move everything where it needs to go for both Linux computers / phones (shortcut / button)
 
 **If install.sh does not produce the working shortcut for your unique setup, follow steps below.**
 
 *continuing to work on this.*
 
 #### INSTALLING PROFILE (Step #4 Below)
+
+**STEPS ARE LISTED BELOW BUT INSTALLER WILL PERFORM FOR YOU (SEE ABOVE)**
 
 Copy "o113n4wr.I2P Browsing"  pre-setup Librewolf profile to /home/$USER/.librewolf (folder + contents)
 
