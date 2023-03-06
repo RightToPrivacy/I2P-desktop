@@ -1,6 +1,11 @@
 CONTINUING WORK ON THIS - READY TO TRY!
 
+Still have some README cleaning up to do, but simply check your start-i2p first for
+the i2prouter location (make sure it matches) and then:
+
 RUN: bash install.sh
+
+That should be it!
 
 REPORT ISSUES TO GITEA ONION: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
 
@@ -29,15 +34,12 @@ in another location than /home/$USER/i2p/i2prouter*
 
 ---
 
-### FIRST: INSTALL LIBREWOLF / FIREJAIL
-
-If you do not install firejail, delete 'firejail' from start-i2p line using it.
+### FIRST: INSTALL LIBREWOLF / I2PROUTER (of your choice: I2P+, i2pd, I2P original)
 
 *default $i2prouterstart / $i2prouterstop is set to i2prouter commands installed at /home/$USER/i2p/i2prouter; if you use another
 version of i2p, change the i2prouterstart / i2prouterstop variable values to meet those commands*
 
-$USER represents your login and will be filled in by your system based on user running this.
-
+(no longer requires firejail to make quicker for anyone)
 ---
 
 ## NEW INSTALL.SH AUTOMATED INSTALLER
