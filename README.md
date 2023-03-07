@@ -1,7 +1,7 @@
 CONTINUING WORK ON THIS - READY TO TRY!
 
-Still have some README cleaning up to do, but simply check your start-i2p first for
-the i2prouter location (make sure it matches) and then:
+Still have some README cleaning up to do, but simply check start-i2p for
+the i2prouter commands: make sure it matches (your i2p router command for start / stop), and then:
 
 RUN: bash install.sh
 
@@ -39,7 +39,6 @@ in another location than /home/$USER/i2p/i2prouter*
 *default $i2prouterstart / $i2prouterstop is set to i2prouter commands installed at /home/$USER/i2p/i2prouter; if you use another
 version of i2p, change the i2prouterstart / i2prouterstop variable values to meet those commands*
 
-(no longer requires firejail to make quicker for anyone)
 ---
 
 ## NEW INSTALL.SH AUTOMATED INSTALLER
