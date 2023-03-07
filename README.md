@@ -85,9 +85,9 @@ STEP 2: chmod +x /usr/bin/start-i2p
 
 STEP 3: ensure i2prouterstart / i2prouterstop variables (inside /usr/bin/start-i2p) are set to correct i2prouter start / stop commands; (default: /home/$USER/i2p/i2prouter)
 
-STEP 4: INSTALL I2P Browsing Profile by copying entire folder: "o113n4wr.I2P Browsing" to /home/$USER/.librewolf (folder + contents)
+STEP 4: INSTALL I2PBrowsing Profile by copying entire folder: "o113n4wr.I2P Browsing" to /home/$USER/.librewolf (folder + contents)
 
-NEXT: go to about:profiles and create new profile. IMPORTANT: Select the folder "o113n4wr.I2P Browsing" as location and name profile "I2P Browsing" (to match variables)
+NEXT: go to about:profiles and create new profile. IMPORTANT: Select the folder "o113n4wr.I2P Browsing" as location and name profile "I2PBrowsing" (to match variables)
 
 STEP 5: Copy i2p.desktop to /home/$USER/.local/share/applications/i2p.desktop
 
