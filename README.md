@@ -1,11 +1,22 @@
 CONTINUING WORK ON THIS - READY TO TRY!
 
-Still have some README cleaning up to do, but simply check start-i2p for
-the i2prouter commands: make sure it matches (your i2p router command for start / stop), and then:
+# QUICKSTART
 
-RUN: bash install.sh
+Install Librewolf / Your Choice Of I2P (i2p+ / i2p / i2pd: choose one you like, i2p+ is nice choice for 1st timers)
 
-That should be it!
+Edit start-i2p for the i2prouter commands: make sure it matches (your i2p router command for start / stop), and then:
+
+**NEXT RUN:** 
+
+    bash install.sh
+
+That should be it (first: install Librewolf / your choice of i2prouterfirst: i2p / i2p+ / i2pd)
+
+You should be able to tap / click I2P Browser on your desktop or phone / tablet interface
+
+---
+
+**PROBLEMS / ISSUES**
 
 REPORT ISSUES TO GITEA ONION: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
 
@@ -24,8 +35,6 @@ When you tap the I2P browser button on desktop / Linux phone, i2prouter starts f
 opens to i2prouter homepage, and i2prouter is stopped upon closing the browser.
 
 ---
-
-#### TUTORIAL / DEMO: https://www.buymeacoffee.com/politictech/setup-automated-i2p-browser-librewolf-on-pinephone-linux-phones-devices
 
 Should work on any Linux device (including Linux Phones like Pinephone / Librem5)
 
@@ -59,7 +68,7 @@ The above will move everything where it needs to go for both Linux computers / p
 
 #### INSTALLING PROFILE (Step #4 Below)
 
-**STEPS ARE LISTED BELOW BUT INSTALLER WILL PERFORM FOR YOU (SEE ABOVE)**
+**STEPS ARE LISTED BELOW BUT INSTALLER PERFORMS THIS FOR YOU (SEE ABOVE)**
 
 Copy "o113n4wr.I2P Browsing"  pre-setup Librewolf profile to /home/$USER/.librewolf (folder + contents)
 
@@ -102,7 +111,7 @@ Mobian users will use /home/mobian/Pictures/i2p.jpg (and set this inside the i2p
 
 #### LINKS
 
-BLOG: https://buymeacoffee.com/politictech/posts (public)
+BLOG: https://buymeacoffee.com/politictech/posts (public for all)
 
 email: righttoprivacy[at]tutanota.com
 
