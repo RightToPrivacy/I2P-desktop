@@ -1,4 +1,4 @@
-This is a holding place for this. Main location where updates are found is at: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop (use Tor Browser to access)
+## This is a holding place for this. Main location where updates are found is at: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop (use Tor Browser to access)
 
 May automate more of this. For now, follow instructions below.
 
@@ -67,8 +67,6 @@ Mobian users will use /home/mobian/Pictures/i2p.jpg (and set this inside the i2p
 BLOG: https://buymeacoffee.com/politictech/posts (public)
 
 email: righttoprivacy[at]tutanota.com
-
-XMR: 48qtspi5En44mJZLeiMoHYFEmuJfQYb5DLQxLDr7d1NXc53XaAvoT8PS3wBrhEc3VY1wxu5Rgw6oKBYgahpSAYnpHntbQNM
 
 ---
 
