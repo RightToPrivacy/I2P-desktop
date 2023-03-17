@@ -1,6 +1,29 @@
-CONTINUING WORK ON THIS - READY TO TRY!
+CONTINUING WORK ON THIS - READY TO TRY! HOPEFULLY CAN LOWER BARRIER FOR SOME FIRST TRYING I2P AND STRENGTHEN NETWORK AGAINST DDoS. 
 
-# QUICKSTART
+---
+
+#### I2P under DDoS attack: help by sharing this / other solutions, run as often / long as possible, on as many machines as possible.
+
+Together, we can empower each other by strengthening networks. This is the most important time to contribute to the network, if we
+want to ensure viability into the future.
+
+**MADE WITH HUMAN RIGHTS IN MIND: HUMAN AUTONOMY CAN NOT EXIST WITHOUT THE RIGHT TO PRIVACY - NO RIGHTS CAN BE GUARUNTEED WITHOUT IT.**
+
+*We should never compromise on our right to selective anonymity / privacy.*
+
+**TIP:** bookmarks to helpful I2P (eepsites) found in browser toolbar / bookmarks upon opening (check them out!)
+
+**TIP:** ideal to leave this running as long / often as possible (as is always the case with I2P). Since it is a peer to peer network, 
+some time is needed to initialize / build tunnels. Give it a few minutes to build connections before browsing, for best experience, 
+and reliability (for you / network).
+
+*(f your computer is on, why not leave it open to help the network? We all benefit, it's nice to contribute where we can.)*
+
+**TIP:** this setup will stop i2prouter for you automatically on browser close.
+
+---
+
+# QUICKSTART (alternatively can read instructions below this section to setup by hand)
 
 Install Librewolf / Your Choice Of I2P (i2p+ / i2p / i2pd: choose one you like, i2p+ is nice choice for 1st timers)
 
@@ -20,7 +43,8 @@ You should be able to tap / click I2P Browser on your desktop or phone / tablet 
 
 REPORT ISSUES TO GITEA ONION: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
 
-EMAIL: righttoprivacy[at]tutanota.com 
+righttoprivacy@mail.i2p (I2P mail)
+righttoprivacy@i2pmail.org
 
 ---
 
@@ -68,7 +92,7 @@ The above will move everything where it needs to go for both Linux computers / p
 
 #### INSTALLING PROFILE (Step #4 Below)
 
-**STEPS ARE LISTED BELOW BUT INSTALLER PERFORMS THIS FOR YOU (SEE ABOVE)**
+**YOU DO NOT NEED TO FOLLOW STEPS BELOW IF YOU USE INSTALLER (SEE ABOVE)**
 
 Copy "o113n4wr.I2P Browsing"  pre-setup Librewolf profile to /home/$USER/.librewolf (folder + contents)
 
@@ -76,13 +100,15 @@ NEXT: go to about:profiles and create new profile. Select the folder "o113n4wr.I
 
 **INFO: javascript now disabled by default in profile provided** 
 
-You can re-enable Javascript in about:config by setting: javascript.enabled = true
+You can re-enable Javascript in about:config by setting: 
 
-*Other small changes, and still in progress on profile*
+    javascript.enabled = true
+
+*Other changes made will be documented coming up*
 
 ---
 
-### INSTALL STEPS (After Installing Firejail (optional) And Librewolf / I2P)
+### INSTALL STEPS 
 
 #### SUGGESTED: PUBLIC SCREENSHOT INSTALL GUIDE (all Linux devices): https://www.buymeacoffee.com/politictech/setup-automated-i2p-browser-librewolf-on-pinephone-linux-phones-devices
 
@@ -112,6 +138,8 @@ Mobian users will use /home/mobian/Pictures/i2p.jpg (and set this inside the i2p
 #### LINKS
 
 BLOG: https://buymeacoffee.com/politictech/posts (public for all)
+
+I2P Mail: righttoprivacy[at]i2p.mail or righttoprivacy@i2pmail.org
 
 email: righttoprivacy[at]tutanota.com
 
