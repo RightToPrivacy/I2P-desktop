@@ -7,11 +7,9 @@ CONTINUING WORK ON THIS - READY TO TRY! HOPEFULLY CAN LOWER BARRIER FOR SOME FIR
 Together, we can empower each other by strengthening networks. This is the most important time to contribute to the network, if we
 want to ensure viability into the future.
 
-**MADE WITH HUMAN RIGHTS IN MIND: HUMAN AUTONOMY CAN NOT EXIST WITHOUT THE RIGHT TO PRIVACY - NO RIGHTS CAN BE GUARUNTEED WITHOUT IT.**
+**MADE WITH LEGAL USE / HUMAN RIGHTS IN MIND: HUMAN AUTONOMY DOES NOT EXIST WITHOUT THE RIGHT TO PRIVACY - NO RIGHTS CAN BE GUARUNTEED WITHOUT IT.**
 
-*We should never compromise on our right to selective anonymity / privacy.*
-
-**TIP:** bookmarks to helpful I2P (eepsites) found in browser toolbar / bookmarks upon opening (check them out!)
+**TIP:** bookmarks to helpful I2P (eepsites) found in browser toolbar / bookmarks upon opening (check them out!). 
 
 **TIP:** ideal to leave this running as long / often as possible (as is always the case with I2P). Since it is a peer to peer network, 
 some time is needed to initialize / build tunnels. Give it a few minutes to build connections before browsing, for best experience, 
