@@ -7,7 +7,7 @@ CONTINUING WORK ON THIS - READY TO TRY! HOPEFULLY CAN LOWER BARRIER FOR SOME FIR
 Together, we can empower each other by strengthening networks. This is the most important time to contribute to the network, if we
 want to ensure viability into the future.
 
-**MADE WITH LEGAL USE / HUMAN RIGHTS IN MIND: NO RIGHTS CAN BE GUARUNTEED WITHOUT IT.**
+**MADE WITH HUMAN RIGHTS IN MIND: NO RIGHTS CAN BE GUARUNTEED WITHOUT PRIVACY.**
 
 **TIP:** bookmarks to helpful I2P (eepsites) found in browser toolbar / bookmarks upon opening (check them out!). 
 
