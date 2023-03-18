@@ -11,7 +11,7 @@ future viability.
 
 **HUMAN RIGHTS IN MIND: NO RIGHTS CAN BE GUARUNTEED WITHOUT PRIVACY.**
 
-**TIP:** bookmarked helpful I2P (eepsites) in browser toolbar / bookmarks upon opening (check them out!). 
+**TIP:** useful I2P (eepsites) in browser toolbar / bookmarks upon opening (check them out!). 
 
 **TIP:** ideal to leave this running as long / often as possible (as is always the case with I2P). Since it is a peer to peer network, 
 some time is needed to initialize / build tunnels. Give it a few minutes to build connections before browsing, for best experience, 
@@ -75,7 +75,7 @@ start-i2p calls librewolf, but can be edited for firefox commands / profile loca
 
 *NOTE: in start-i2p - default $i2prouterstart / $i2prouterstop var set to i2prouter commands installed at /home/$USER/i2p/i2prouter*
 
-*if you use another version of i2p, change the i2prouterstart / i2prouterstop variable values to meet those commands*
+*if you use another version of i2p, you can adapt by editing $i2prouterstart / $i2prouterstop variable values to meet those commands*
 
 ---
 
@@ -83,7 +83,7 @@ start-i2p calls librewolf, but can be edited for firefox commands / profile loca
 
 AUTOMATED INSTALLER (install.sh) READY TO TRY!
 
-IF YOU NOTICE AN ISSUE PLEASE FILE OR EMAIL righttoprivacy[at]tutanota.com
+IF YOU NOTICE AN ISSUE PLEASE FILE OR EMAIL righttoprivacy[at]i2pmail.org
 
 **INSTALLER USAGE**
 
@@ -92,8 +92,6 @@ IF YOU NOTICE AN ISSUE PLEASE FILE OR EMAIL righttoprivacy[at]tutanota.com
 The above will move everything where it needs to go for both Linux computers / phones (shortcut / button)
 
 **If install.sh does not produce the working shortcut for your unique setup, follow steps below.**
-
-*continuing to work on this.*
 
 #### INSTALLING PROFILE (Step #4 Below)
 
