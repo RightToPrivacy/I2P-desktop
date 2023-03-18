@@ -1,4 +1,6 @@
-CONTINUING WORK ON THIS - READY TO TRY! HOPEFULLY CAN LOWER BARRIER FOR SOME FIRST TRYING I2P AND STRENGTHEN NETWORK AGAINST DDoS. 
+CONTINUING WORK ON THIS - READY TO TRY! HOPEFULLY CAN LOWER BARRIER FOR SOME FIRST TRYING I2P
+
+THE MORE I2P USERS, THE STRONGER / MORE RESILIENT THE NETWORK (AGAIN DDOS) 
 
 ---
 
@@ -9,7 +11,7 @@ future viability.
 
 **HUMAN RIGHTS IN MIND: NO RIGHTS CAN BE GUARUNTEED WITHOUT PRIVACY.**
 
-**TIP:** bookmarks to helpful I2P (eepsites) found in browser toolbar / bookmarks upon opening (check them out!). 
+**TIP:** bookmarked helpful I2P (eepsites) in browser toolbar / bookmarks upon opening (check them out!). 
 
 **TIP:** ideal to leave this running as long / often as possible (as is always the case with I2P). Since it is a peer to peer network, 
 some time is needed to initialize / build tunnels. Give it a few minutes to build connections before browsing, for best experience, 
@@ -69,8 +71,11 @@ in another location than /home/$USER/i2p/i2prouter*
 
 ### FIRST: INSTALL LIBREWOLF / I2PROUTER (of your choice: I2P+, i2pd, I2P original)
 
-*default $i2prouterstart / $i2prouterstop is set to i2prouter commands installed at /home/$USER/i2p/i2prouter; if you use another
-version of i2p, change the i2prouterstart / i2prouterstop variable values to meet those commands*
+start-i2p calls librewolf, but can be edited for firefox commands / profile location, if you like.
+
+*NOTE: in start-i2p - default $i2prouterstart / $i2prouterstop var set to i2prouter commands installed at /home/$USER/i2p/i2prouter*
+
+*if you use another version of i2p, change the i2prouterstart / i2prouterstop variable values to meet those commands*
 
 ---
 
@@ -98,7 +103,7 @@ Copy "o113n4wr.I2P Browsing"  pre-setup Librewolf profile to /home/$USER/.librew
 
 NEXT: go to about:profiles and create new profile. Select the folder "o113n4wr.I2P Browsing" as location and name profile "I2P Browsing".
 
-**INFO: javascript now disabled by default in profile provided** 
+**INFO: javascript disabled by default in profile provided - for enhanced user safety** 
 
 You can re-enable Javascript in about:config by setting: 
 
@@ -110,9 +115,7 @@ You can re-enable Javascript in about:config by setting:
 
 ### INSTALL STEPS 
 
-#### SUGGESTED: PUBLIC SCREENSHOT INSTALL GUIDE (all Linux devices): https://www.buymeacoffee.com/politictech/setup-automated-i2p-browser-librewolf-on-pinephone-linux-phones-devices
-
-(or follow steps below without pictures)
+*(if you run install.sh you do not need to follow below!)*
 
 STEP 1: move start-i2p to /usr/bin/start-i2p
 
@@ -151,7 +154,7 @@ email: righttoprivacy[at]tutanota.com
 
 GETI2P: https://geti2p.net/en/download
 
-I2P+: https://i2pplus.github.io/#download (http://skank.i2p)
+I2P+: https://i2pplus.github.io/#download (http://skank.i2p for I2P users)
 
 i2pd: https://github.com/PurpleI2P/i2pd
 
