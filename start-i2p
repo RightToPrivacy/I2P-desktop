@@ -1,21 +1,31 @@
 #!/bin/bash
 #
 # righttoprivacy[at]tutanota.com
-# https://buymeacoffee.com/politictech/posts (public blog)
+# 
+# more info in README
+# and on public blog: https://buymeacoffee.com/politictech/posts
 #
 
-# VARIABLES
-i2prouterloc="/home/$USER/i2p/i2prouter"
-i2pprofile="I2P Browsing" 	# Change to I2P profile name
+# VARIABLES: EDIT VARIABLES BELOW IF I2PROUTER LOCATION IS DIFFERENT
+# $i2prouterstart should be command for starting i2p (whichever fork / version)
+# $i2prouterstop should be command for stopping i2p (whichever version you use)
+i2prouterstart="/home/$USER/i2p/i2prouter start"		# CHANGE THIS IF NEEDED TO MEET ANY I2PROUTER START COMMAND
+i2pprofile="I2PBrowsing" 	# Change to I2P profile name	# CHANGE IF NEEDED TO MEET STOP I2PROUTER COMMAND
+i2prouterstop="/home/$USER/i2p/i2prouter stop"
+i2pprofdir="/home/$USER/.librewolf/o113n4wr.I2P Browsing"
 
-trap "$i2prouterloc stop" EXIT
+trap "$i2prouterstop" EXIT
 
 starti2p() {
 	echo -e "STARTING I2P ROUTER...\n"
-	bash $i2prouterloc start  
+	bash $i2prouterstart
 }
 
 starti2p &
-sleep 8		# delay for slower devices compatibility
+sleep 10		# delay for slower devices compatibility
 
-firejail librewolf -P "$i2pprofile" --new-tab https://127.0.0.1:7667
+# HASHED OUT LINE BELOW AN EXAMPLE - AUTOMATED INSTALLER USES LINE BELOW THIS
+#firejail librewolf -P "$i2pprofile" --new-tab https://127.0.0.1:7667
+
+#librewolf --profile "/home/alarm/.librewolf/o113n4wr.I2P Browsing" --new-tab https://127.0.0.1:7667 
+librewolf --profile "$i2pprofdir" --new-tab https://127.0.0.1:7667 
