@@ -4,10 +4,10 @@ CONTINUING WORK ON THIS - READY TO TRY! HOPEFULLY CAN LOWER BARRIER FOR SOME FIR
 
 #### I2P under DDoS attack: help by sharing this / other solutions, run as often / long as possible, on as many machines as possible.
 
-Together, we can empower each other by strengthening networks. This is the most important time to contribute to the network, if we
-want to ensure viability into the future.
+Together, we can empower each other: by strengthening networks. The most important time to contribute bandwidth to the network, for
+future viability.
 
-**MADE WITH HUMAN RIGHTS IN MIND: NO RIGHTS CAN BE GUARUNTEED WITHOUT PRIVACY.**
+**HUMAN RIGHTS IN MIND: NO RIGHTS CAN BE GUARUNTEED WITHOUT PRIVACY.**
 
 **TIP:** bookmarks to helpful I2P (eepsites) found in browser toolbar / bookmarks upon opening (check them out!). 
 
@@ -40,6 +40,8 @@ You should be able to tap / click I2P Browser on your desktop or phone / tablet 
 **PROBLEMS / ISSUES**
 
 REPORT ISSUES TO GITEA ONION: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
+
+(not using github as often, checking main above gitea onion address daily - where things arrive first)
 
 righttoprivacy@mail.i2p (I2P mail)
 righttoprivacy@i2pmail.org
@@ -135,6 +137,8 @@ Mobian users will use /home/mobian/Pictures/i2p.jpg (and set this inside the i2p
 
 #### LINKS
 
+GIT ONION (anon git): http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
+
 BLOG: https://buymeacoffee.com/politictech/posts (public for all)
 
 I2P Mail: righttoprivacy[at]i2p.mail or righttoprivacy@i2pmail.org
@@ -145,8 +149,10 @@ email: righttoprivacy[at]tutanota.com
 
 #### GET I2PROUTER LINKS
 
-GETI2P: https://geti2p.net/en/
+GETI2P: https://geti2p.net/en/download
 
-I2P+: https://i2pplus.github.io/
+I2P+: https://i2pplus.github.io/#download (http://skank.i2p)
 
 i2pd: https://github.com/PurpleI2P/i2pd
+
+(if you have a link suggestion reach out)
