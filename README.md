@@ -1,5 +1,8 @@
 CONTINUING WORK ON THIS - READY TO TRY! HOPEFULLY CAN LOWER BARRIER FOR SOME FIRST TRYING I2P AND STRENGTHEN NETWORK AGAINST DDoS. 
 
+To spread awareness / make I2P browsing easy. There are other options out there like idk private I2P browsing profile
+
+
 ---
 
 #### I2P under DDoS attack: help by sharing this / other solutions, run as often / long as possible, on as many machines as possible.
