@@ -16,7 +16,6 @@ i2prouterstop="/home/$USER/i2p/i2prouter stop"
 i2pprofdir="/home/$USER/.librewolf/o113n4wr.I2P Browsing"
 # BELOW 'sshfw' SSH FORWARD COMMAND FOR REMOTE I2P: SETUP SSH KEY AUTH SET CORRECT LOGIN / IP I2P SERVER
 sshfw='ssh -fTNL 4444:127.0.0.1:4444 -L 7070:127.0.0.1:7070 pnet@192.168.1.53'
-killssh='killall -9 ssh'
 
 # IF USER USES 'start-i2p remote' I2P PROFILE OPENS TO REMOTE I2PD
 if [ "$1" == 'remote' ]; then
