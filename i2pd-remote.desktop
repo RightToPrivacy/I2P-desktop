@@ -1,0 +1,20 @@
+# Report issues to Gitea Onion: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
+# Or email: righttoprivacy[at]tutanota.com
+# more info in README.md
+
+[Desktop Entry]
+Type=Application
+Name=I2PD Remote
+GenericName=Browser
+# HASHED OUT LINE BELOW IS FOR OPENING TERMINAL ON LINUX PHONE FOR RUN OBSERVATION
+#Exec=/usr/bin/kgx --command /usr/bin/start-i2p
+Exec=start-i2p remote
+# IMPORTANT: IF YOU DO NOT USE INSTALL SCRIPT, MAKE Icon=/home/user/Pictures/i2p.jpg/home/user/Pictures/i2p.jpg/home/user/Pictures/i2p.jpgLocationPathOFi2p.jpg
+# IF YOU USE THE install.sh YOU CAN IGNORE COMMENT ABOVE THIS
+Icon=/home/user/Pictures/i2p.jpg
+Terminal=true
+Categories=Network
+
+Comment=
+Path=
+StartupNotify=false
