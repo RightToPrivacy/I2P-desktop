@@ -1,6 +1,9 @@
 # Report issues to Gitea Onion: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
 # Or email: righttoprivacy[at]tutanota.com
 # more info in README.md
+#
+# THIS SHORTCUT IS FOR REMOTE I2PD BROWSER SHORTCUT: REQUIRES SSH KEY AUTH PRIOR TO USE FOR I2PD SERVER
+# SETUP I2PD ON A SINGLE BOARD COMPUTER, AND LEAVE IT RUNNING 24 / 7 FOR EASY REMOTE ACCESS
 
 [Desktop Entry]
 Type=Application
@@ -9,8 +12,7 @@ GenericName=Browser
 # HASHED OUT LINE BELOW IS FOR OPENING TERMINAL ON LINUX PHONE FOR RUN OBSERVATION
 #Exec=/usr/bin/kgx --command /usr/bin/start-i2p
 Exec=start-i2p remote
-# IMPORTANT: IF YOU DO NOT USE INSTALL SCRIPT, MAKE Icon=/home/user/Pictures/i2p.jpg (change for your login /loc)
-# IF YOU USE THE install.sh YOU CAN IGNORE COMMENT ABOVE THIS
+# IMPORTANT: MAKE Icon=/home/user/Pictures/i2p.jpg (change for your login /loc)
 Icon=/home/user/Pictures/i2p.jpg
 Terminal=true
 Categories=Network
