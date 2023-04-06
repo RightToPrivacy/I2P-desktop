@@ -12,12 +12,11 @@
 # $i2prouterstop should be command for stopping i2p (whichever version you use)
 i2prouterstart="/home/$USER/i2p/i2prouter start"		# CHANGE THIS IF NEEDED TO MEET ANY I2PROUTER START COMMAND
 i2pprofile="I2PBrowsing" 	# Change to I2P profile name	# CHANGE IF NEEDED TO MEET STOP I2PROUTER COMMAND
-# BELOW THIS LINE IS TEMP MEASURE TO KILL SSH FORWARDING - COMMENT IN FRONT OF "killall -9 ssh" TO PREVENT LOSING SSH CLIENT
-i2prouterstop="/home/$USER/i2p/i2prouter stop #; killall -9 ssh"
+i2prouterstop="/home/$USER/i2p/i2prouter stop"
 i2pprofdir="/home/$USER/.librewolf/o113n4wr.I2P Browsing"
 # BELOW 'sshfw' SSH FORWARD COMMAND FOR REMOTE I2P: SETUP SSH KEY AUTH SET CORRECT LOGIN / IP I2P SERVER
 sshfw='ssh -fTNL 4444:127.0.0.1:4444 -L 7070:127.0.0.1:7070 -L 6668:127.0.0.1:6668 pnet@192.168.1.53'
-killssh='killall -9 ssh'
+killssh='killall -9 ssh'	# Current command to stop the ssh for 'remote' option
 
 # IF USER USES 'start-i2p remote' I2P PROFILE OPENS TO REMOTE I2PD
 if [ "$1" == 'remote' ]; then
