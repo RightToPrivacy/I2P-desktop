@@ -24,11 +24,11 @@ and reliability (for you / network).
 
 ---
 
-# QUICKSTART (alternatively can read instructions below this section to setup by hand)
+## QUICKSTART (alternatively can read instructions below this section to setup by hand)
 
 Install Librewolf / Your Choice Of I2P (i2p+ / i2p / i2pd: choose one you like, i2p+ is nice choice for 1st timers)
 
-Edit start-i2p for the i2prouter commands: make sure it matches (your i2p router command for start / stop), and then:
+Edit start-i2p / stop-i2p to match your i2prouter commands: make sure it matches for your system, and then:
 
 **NEXT RUN:** 
 
