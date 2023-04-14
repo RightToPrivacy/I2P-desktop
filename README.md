@@ -1,6 +1,6 @@
-CONTINUING WORK ON THIS - READY TO TRY! HOPEFULLY CAN LOWER BARRIER FOR SOME FIRST TRYING I2P AND STRENGTHEN NETWORK AGAINST DDoS. 
+CONTINUING WORK ON THIS - READY TO TRY. HOPEFULLY CAN LOWER BARRIER FOR SOME FIRST TIME I2P  USERS. A SMALL CONTRIBUTION TO STRENGTHEN NETWORK AGAINST DDoS. 
 
-To spread awareness / make I2P browsing easy. There are other options out there like idk private I2P browsing profile
+To spread awareness / make I2P browsing easy. There are other options out there like idk's private I2P browsing profile.
 
 
 ---
@@ -46,6 +46,8 @@ REPORT ISSUES TO GITEA ONION: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlh
 
 righttoprivacy@mail.i2p (I2P mail)
 righttoprivacy@i2pmail.org
+
+I2Pmail PGP FINGERPRINT: DFB4 FCB0 C451 BEB0 EF3F E009 D92B E9BC 25CB 0E69
 
 ---
 
