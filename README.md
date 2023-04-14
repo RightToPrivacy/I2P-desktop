@@ -42,12 +42,12 @@ You should be able to tap / click I2P Browser on your desktop or phone / tablet 
 
 **PROBLEMS / ISSUES**
 
-REPORT ISSUES TO GITEA ONION: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop
+REPORT ISSUES TO GITEA ONION: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/I2P-desktop/issues
 
 righttoprivacy@mail.i2p (I2P mail)
 righttoprivacy@i2pmail.org
 
-I2Pmail PGP FINGERPRINT: DFB4 FCB0 C451 BEB0 EF3F E009 D92B E9BC 25CB 0E69
+PGP FINGERPRINT: DFB4 FCB0 C451 BEB0 EF3F E009 D92B E9BC 25CB 0E69
 
 ---
 
@@ -142,9 +142,11 @@ Mobian users will use /home/mobian/Pictures/i2p.jpg (and set this inside the i2p
 
 BLOG: https://buymeacoffee.com/politictech/posts (public for all)
 
-I2P Mail: righttoprivacy[at]i2p.mail or righttoprivacy@i2pmail.org
+righttoprivacy@mail.i2p (I2P mail)
 
-email: righttoprivacy[at]tutanota.com
+righttoprivacy@i2pmail.org
+
+PGP FINGERPRINT: DFB4 FCB0 C451 BEB0 EF3F E009 D92B E9BC 25CB 0E69
 
 ---
 
